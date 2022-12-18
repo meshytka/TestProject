@@ -1,4 +1,4 @@
-﻿namespace Singleton
+﻿namespace TestSolution
 {
     public sealed class LazyTypeSingleton
     {

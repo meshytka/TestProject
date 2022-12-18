@@ -82,7 +82,7 @@ namespace TestSolution
         public void Task11()
         {
             var str = "baaa;aabb;aaa;xabbx;abb;ccc;dap;zh";
-            Console.WriteLine(str.Split(';').SkipWhile((word, index) => str.Split(';') c && c.Count(w=>w.EndsWith("bb")) == 2));
+            // //Console.WriteLine(str.Split(';').SkipWhile((word, index) => str.Split(';') c && c.Count(w=>w.EndsWith("bb")) == 2));
         }
     }
 }

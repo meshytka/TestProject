@@ -4,7 +4,7 @@
     {
         public class SomeClass
         {
-            // Can use only primitive types (Int32/64|Byte|Char|Double|Decimal|String...
+            // Can use only primitive types (Int32/64|Byte|Char|Double|Decimal|String...)
             // Value that assotiated with constant name must be declarated at compile time. Then the compile saves values of constants in module's metadata
             // Constants are considered part of the type (static)
             // Memory for constants is't allocated at runtime

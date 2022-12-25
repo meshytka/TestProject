@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Михаил\\source\\repos\\TestProject\\TestLinq\\TestLinq.csproj",
+      "projectUniqueName": "C:\\Users\\Михаил\\source\\repos\\TestProject\\Methods\\Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "C:\\Users\\Михаил\\source\\repos\\TestProject\\TestLinq\\TestLinq.csproj",
+      "projectPath": "C:\\Users\\Михаил\\source\\repos\\TestProject\\Methods\\Methods.csproj",
       "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Михаил\\source\\repos\\TestProject\\Methods\\obj\\",
       "projectStyle": "PackageReference",

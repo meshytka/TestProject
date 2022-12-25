@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
 namespace Methods
 {
     public class Constructors
     {
-        // instance constructors are not inherited (can't be with virtual, new, ovveride, sealed and abstract modifiers
+        // instance constructors are not inherited (can't be with virtual, new, ovveride, sealed and abstract modifiers)
         public Constructors() { }
 
         // There can be mutiple constructors but with different signature
